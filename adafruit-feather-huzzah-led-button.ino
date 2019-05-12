@@ -2,8 +2,7 @@
  *******************************************************************************
  * Description:
  * Sample code to turn a led on and off when pressing and releasing a button.
- * GitHub: https://github.com/flaviomauro/Adafruit_Feather_Huzzah_Led_Button
- * YouTube: https://youtu.be/O6CJU-kRd-k
+ * GitHub: https://github.com/flaviomauro/adafruit-feather-huzzah-led-button
  *******************************************************************************
  * Item list:
  * 
